@@ -7,8 +7,14 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/d8edbff293308312a9c8bbf081b718de.git:cylinder.groovy": [
+      "https://gist.github.com/d8edbff293308312a9c8bbf081b718de.git",
+      "cylinder.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
+    "firstVersion": "0.20.5",
     "skinBranch": "0.20.5",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git"
   }
